@@ -3,7 +3,7 @@ package com.martin.no_if_else;
 import android.util.Log;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
-import com.martin.no_if_else.enum_way.EnumJudgeRole;
+import com.martin.no_if_else.enum_pattern.EnumJudgeRole;
 import com.martin.no_if_else.factory.FactoryJudgeRole;
 import com.martin.no_if_else.factory.NormalRole;
 import com.martin.no_if_else.factory.OrderAdminRole;

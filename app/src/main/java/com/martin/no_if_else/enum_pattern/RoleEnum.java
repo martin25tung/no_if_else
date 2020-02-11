@@ -1,4 +1,4 @@
-package com.martin.no_if_else.enum_way;
+package com.martin.no_if_else.enum_pattern;
 
 import com.martin.no_if_else.RoleOperation;
 
